@@ -12,6 +12,6 @@ code {
     monospace;
 }
 img {
-  padding: 5px;
-  width: 150px;
+  max-width: 100%;
+  height: auto;
 }
